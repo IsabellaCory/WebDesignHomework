@@ -1,0 +1,49 @@
+div{
+    text-align: center;
+    font-family: RobotoMono;
+    font-style: normal;
+    margin: 10px;
+}
+
+.title{
+    font-family: PixelifySans;
+    font-size: 90px;
+    text-shadow: -6px 2px 0 #000;
+    color:aliceblue;
+    background-color:#a9a9a9;
+    height: 100px;
+    text-align: center;
+}
+
+#pygmalion{
+    font-family: RobotoMono;
+    font-weight: 900;
+}
+
+
+#pygmalion:hover:after {
+
+    font-weight: 500;
+    color: blue;
+    font-style: normal;
+}
+
+#pygmalion {
+  font-weight: 800;
+
+}
+
+#pygmalion:hover {
+    float: right;
+    display: block;
+    width: 500px;
+    height: 400px;
+}
+
+#uppercase {
+    text-transform: uppercase;
+}
+
+img{
+    padding: 20px 20px;
+}
